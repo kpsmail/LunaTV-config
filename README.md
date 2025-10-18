@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-19 04:19 CST）
+## API 状态（最近更新：2025-10-19 05:16 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：77
@@ -239,7 +239,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 85 | 15 | 85.0% | 15 |
+| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 84 | 16 | 84.0% | 16 |
 <!-- API_TABLE_END -->
 
 
