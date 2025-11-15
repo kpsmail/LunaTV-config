@@ -144,16 +144,16 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-15 09:25 CST）
+## API 状态（最近更新：2025-11-15 11:07 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：76
 - 失败 API 数量：4
-- 平均可用率：96.9%
+- 平均可用率：96.8%
 - 完美可用率（100%）：50 个
 - 高可用率（80%-99%）：26 个
-- 中等可用率（50%-79%）：4 个
-- 低可用率（<50%）：0 个
+- 中等可用率（50%-79%）：0 个
+- 低可用率（<50%）：4 个
 
 <div style="font-size: 11px;">
 
@@ -236,10 +236,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 50 | 50 | 50.0% | 49 |
-| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 50 | 50 | 50.0% | 49 |
-| 🚨 | 🎬豪华资源 | https://jjpz.hafrey.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod | 50 | 50 | 50.0% | 49 |
-| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 50 | 50 | 50.0% | 49 |
+| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 49 | 51 | 49.0% | 50 |
+| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 49 | 51 | 49.0% | 50 |
+| 🚨 | 🎬豪华资源 | https://jjpz.hafrey.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod | 49 | 51 | 49.0% | 50 |
+| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 49 | 51 | 49.0% | 50 |
 <!-- API_TABLE_END -->
 
 
